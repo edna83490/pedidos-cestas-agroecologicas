@@ -1,4 +1,4 @@
-# 🧺 Pedidos de Cestas Agroecológicas
+#  Pedidos de Cestas Agroecológicas
 
 ## Sobre o projeto
 
